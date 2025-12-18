@@ -1,0 +1,9 @@
+# Ignorar carpetas generadas automáticamente por NetBeans
+build/
+nbproject/private/
+*.jar
+*.war
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
